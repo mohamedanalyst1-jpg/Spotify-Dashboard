@@ -2,7 +2,7 @@
 
 An interactive **Power BI** dashboard that analyzes Spotify streaming performance across languages, genres, artists, and listener demographics.
 
-![Dashboard Preview](screenshot.png)
+![Dashboard Preview](Spotify_Dashboard)
 
 ##  Overview
 
